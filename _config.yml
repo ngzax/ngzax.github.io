@@ -99,21 +99,31 @@ owner:
   avatar: https://avatars.githubusercontent.com/ngzax
   bio:    "Heaven's Cavalry Rider, Freedom Lover, Harley Guy, Technological Engineer, Modern Reactionary"
   email:  ngzax@ngzax.com
-  disqus-shortname:
-  twitter: #username
+
+  disqus-shortname: ngzax
+  github:           ngzax
+  instagram:        ngzax
+  flickr:           ngzax
+  stackoverflow:    134495/daryl
+
+  bing-verify:
+  codepen: #username
+  dribbble: #username
   facebook: #username
+  foursquare: #username
   google:
     plus: #username
     analytics:
     verify:
     ad-client:
     ad-slot:
-  bing-verify:
-  github: ngzax
-  stackoverflow: 134495/daryl
+  lastfm: #username
   linkedin: #username
+  soundcloud: #username
+  tumblr: #username
+  twitter: #username
+  weibo: #username
   xing: #username
-  instagram: ngzax
 
 
 # Archives
