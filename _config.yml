@@ -97,8 +97,22 @@ whitelist:
 owner:
   name:   Daryl Richter
   avatar: https://avatars.githubusercontent.com/ngzax
-  bio:    "Describe your self."
+  bio:    "Heaven's Cavalry Rider, Freedom Lover, Harley Guy, Technological Engineer, Modern Reactionary"
   email:  ngzax@ngzax.com
+  disqus-shortname:
+  twitter: #username
+  facebook: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: ngzax
+  stackoverflow: 134495/daryl
+  linkedin: #username
+  xing: #username
   instagram: ngzax
 
 
