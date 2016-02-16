@@ -4,9 +4,10 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-title:  Zaxonomy
-locale: en_US
-url:    http://www.ngzax.com
+title:    Zaxonomy
+locale:   en_US
+timezone: America/New_York
+url:      http://www.ngzax.com
 
 
 # Reading Files
