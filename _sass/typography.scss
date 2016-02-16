@@ -161,8 +161,10 @@ li {
     @include rounded(3px);
   }
 }
+
 pre {
   @include font-rem(12);
+  font: $code-font;
   line-height: 1.5;
   overflow-x: auto;
 }
