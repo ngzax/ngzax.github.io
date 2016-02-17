@@ -119,7 +119,7 @@ owner:
   foursquare: #username
   google:
     plus: #username
-    analytics:
+    analytics: UA-5529863-5
     verify:
     ad-client:
     ad-slot:
