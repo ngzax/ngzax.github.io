@@ -1,9 +1,9 @@
 ---
-layout:  home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags:    [Jekyll, theme, responsive, blog, template]
+layout:       home
+excerpt:      "Home, home on teh Internets for N. G. Zax"
+tags:         [blog, bio]
 image:
   feature:    motor_oil-leather-gasoline.jpg
   credit:     Daryl Richter
-  creditlink:
+  creditlink: http://www.flickr.com/ngzax
 ---
