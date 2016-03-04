@@ -14,7 +14,11 @@
             <li>
               <a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>
                 {% if link.image %}
-                  <img src="{{ link.image.file }}" alt="{{ link.title }}" height="{{ link.image.height }}px" width="{{ link.image.width }}px">
+                  {% if link.image.class %}
+                    <i class="{{ link.image.class }}"></i>&nbsp;{{ link.title }}
+                  {% else %}
+                    <img src="{{ link.image.file }}" alt="{{ link.title }}" height="{{ link.image.height }}px" width="{{ link.image.width }}px">
+                  {% endif %}
                 {% else %}
                   {{ link.title }}
                 {% endif %}
