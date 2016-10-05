@@ -7,8 +7,8 @@
 title:    Zaxonomy
 locale:   en_US
 timezone: America/New_York
-# url:      localhost
-url:      http://www.ngzax.com
+url:      http://localhost:4000
+# url:      http://www.ngzax.com
 
 
 # Reading Files
@@ -23,9 +23,7 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
   - assets/js/_main.js
-  - assets/js/vendor
   - Capfile
   - CHANGELOG
   - config
@@ -75,15 +73,13 @@ kramdown:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
+  style:    compressed  # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+permalink:     /:categories/:title/
+paginate:      5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+timezone:        # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 gems:
@@ -100,6 +96,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+
 # Site owner
 owner:
   name:   Daryl Richter
@@ -107,7 +104,7 @@ owner:
   bio:    "Heaven's Cavalry Rider<br>Freedom Lover<br>Harley Guy<br>Technological Engineer<br>Modern Reactionary"
 
   disqus-shortname: ngzax
-  email:  ngzax-at-ngzax-dot-com
+  email:            ngzax-at-ngzax-dot-com
   github:           ngzax
   instagram:        ngzax
   flickr:           ngzax
