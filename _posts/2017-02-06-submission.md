@@ -1,6 +1,6 @@
 ---
 comments: false
-excerpt:  "'mix test' and 'mix test.watch' and creating a PostgreSQL extension in a migration"
+excerpt:  "The conventional wisdom on immigration is rapidly hardening into an ideology of extremist open-borders lunacy"
 image:
   feature: submission_cover_cropped.jpg
 layout:   post
