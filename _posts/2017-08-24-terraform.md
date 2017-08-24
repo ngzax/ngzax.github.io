@@ -201,47 +201,4 @@ To detach from your screen session use Ctrl-a and then “d” Your comet will c
 
 You can disconnect your ssh session by typing “exit”.
 
-Enjoy!
-
-----------
-
-## Contributing
-
-Contributions and corrections are welcome. Please submit a PR.
-
-----------
-
-## FAQ
-
-### Does my server have any security?
-
-The terraform script creates a security group for you to make your urbit more secure. If it didn’t, your urbit would be wide open to all connections inbound and outbound from the entire internet and thus vulnerable to attach. (The amazon default)
-
-
-- The group by default is named “urbit-sg-ohio” you can change the state suffix if you decide to run your urbit in a different AWS availability zone by setting the STATE var in your terraform.tfvars file.
-- You can see the security group in the EC2 console
-
-
-### Do I have to use screen?
-
-No. The terraform script has also install tmux if you prefer to use that to run your urbit in the background.
-
-
-### What if I have a planet?
-
-You ssh to your urbit server as described above, stop your comet with Ctrl-d and exit screen.
-
-
-    $ screen # or tmux
-    $ cd ~/piers/
-    $ urbit -w {PLANET_NAME} -t {PLANET_TICKET}
-
-
-### How do I remove my urbit server?
-
-From urbit-devops/terraform directory:
-
-
-    terraform destroy
-
-----------
+### Enjoy!
