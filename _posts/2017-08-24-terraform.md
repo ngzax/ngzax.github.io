@@ -124,12 +124,17 @@ If you have more than one Amazon account profile in your ~/.aws/credentials file
     PROFILE                 = "ansible"
 
 
-### Step 8: Run Terraform
+### Step 8: Install and Run Terraform
 
-You can run “terraform plan” to see what terraform is going to execute on your behalf. To actually deploy your urbit, use “terraform apply”
+Go to https://www.terraform.io/downloads.html and download the terraform binary.
+Put it somewhere in your path.
+
+From the urbit-devops/terraform directory you can run “terraform plan” to see
+what terraform is going to execute on your behalf. Once you are ready, to
+actually deploy your urbit, use “terraform apply”
 
 
-    $ terraform appply
+    $ terraform apply
     aws_security_group.urbit-sg: Creating...
       description:                           "" => "Urbit Default Security Group"
       egress.#:                              "" => "<computed>"
