@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/ngzax
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.ngzax.com
+  * I am ngzax (https://keybase.io/ngzax) on keybase.
+  * I have a public key with fingerprint 4A4A 7D36 1872 E5A1 4F15  171A 9E6F B143 EAD5 8070
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101136d6feeb6101f51e1c3ae23f3d5f0ad4ef9378b2543bbacc206aac9e726a63c0a",
+      "fingerprint": "4a4a7d361872e5a14f15171a9e6fb143ead58070",
+      "host": "keybase.io",
+      "key_id": "9e6fb143ead58070",
+      "kid": "0101136d6feeb6101f51e1c3ae23f3d5f0ad4ef9378b2543bbacc206aac9e726a63c0a",
+      "uid": "03572caabfa4723851dfcbad3f097019",
+      "username": "ngzax"
+    },
+    "service": {
+      "hostname": "www.ngzax.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1506354721,
+  "expire_in": 157680000,
+  "prev": "ad94f8eb7559944174f34cf72009ae7275d61494566d30f27fe3ecf24a060b45",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.73
+Comment: https://keybase.io/crypto
+
+yMIoAnicrZJrSBVBFMev9jZ6UfQAE9siQS6ys7Oze9c+FUQfygrLzNDW2Z2Z6/q4
+e713vaaSStxM0jACk8RIojAJCiqJiiC1CHsHFUKmvVAkIXtCaNms2bc+Nl+Gc87/
+/5tzhnN73jRPXIw/YWLB8MuH52PudzaWeLJ61q6qEAyblAmpFUIBnbxoIaFhRy+w
+iJAqiEAEACpEYZQaCg8YAhSYEFMJMkgQEzGRKdOg6jMkJEPDwKYpiQrGpkZVScEK
+NEUseAVmBfw0FAxZAYdjZSxjlUAF+FSJIgxkBhBQAdaowgwgQ4oJ8omqyI15dth1
+8OYMHKYpls1zPNAn2/uH/j/3XfIHB5EqmRgbDMuqBH0IEGYamEAmaqoINFcYpqEA
+LqJcHfCX433Cfq/AUxHLpO6vumNMlUtLS1MmJSmmXcSdwZDt2KZdyEt5jhNMdZ1O
+WXBSSg19CqIbVoDwT+SGCA2FLTsgpAKuNB3LpQIkKhDx5oBXoPuCVojqlqtAquIT
++XGfoRGOxESTmY8aKkKaJstAlRmUTaZKoqhhPrqKiAJkTUaKQqDIJJVRSE0myVhU
+RENGgjtWccDmbA51sJ8zw5Y/gJ2SEBX2d93Knu6JifPMnBHrbpcnbs7CvzvnXTpr
+Iu/J3V3165dkPtgcbWnM0K6Q5e1PyeiLmms1RzvaBv1xRZmnZkT3tnZPHFs9tqE5
+J/d7T13CYPXoVaLDg1FS13So+k5j+UhW68Nps0e1/MpnKyub0u7dOL6t9n2L0zVW
+Mv+A93DB0NwL3273t5Ud2flD/5nQ3v56IP70ycyWcx/Kf7V6BvpA20jK9seznyZu
+e/VoXTR9U1Xa2Q51TcPF9FH8zln8LPlS0b2v/QNZSc1vc5Pyt57Y8aVnqG+wcrzm
+YFSqytlSUNt7fffzjY9i7cTL8Z8XfYpfr8d0DmT40lfU07G7b/JvRs7o3XmdeyIv
+ut/0jiwbL36b/TE03DA8npA8HbVm/gbG30zy
+=2IES
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ngzax
+
+==================================================================
