@@ -10,4 +10,4 @@ image:
   creditlink:
 ---
 
-<iframe src="http://docs.google.com/gview?url=http://www.ngzax.com/cv/Daryl-Richter-Complete.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/gview?url=https://www.ngzax.com/cv/Daryl-Richter-Complete.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
